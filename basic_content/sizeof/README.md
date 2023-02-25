@@ -40,6 +40,7 @@ int main()
  * @version v1
  * @date 2019-07-21
  */
+ 
 #include<iostream>
 using namespace std;
 class A
